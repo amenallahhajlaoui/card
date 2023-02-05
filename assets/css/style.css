@@ -1,0 +1,16 @@
+.product-lavel{
+    position:absolute;
+    top:36px;
+    left:-37px;
+    background:#eee;
+    font-weight:800;
+    font-size:14px;
+    display:flex;
+    align-items:center;
+    color:#00152b;
+    padding:6px 14px;
+    border-radius:0 20px 0px 0px;
+    transform:rotate(90deg);
+    transition:all .4s ease}
+
+ 
